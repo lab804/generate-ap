@@ -16,9 +16,9 @@ na iso gerada em Setembro de 2016.
 
 ## Contribuir
 Questões e Dicas sempre serão bem vindas mas para manter uma organização veja
-[lista de questões](https://github.com/lab804/gerador-ap/issues)
+[lista de questões](https://github.com/lab804/generate-ap/issues)
 
 
 ## Changelog
 
-Veja changelog [aqui](https://github.com/lab804/gerador-ap/blob/master/CHANGELOG.md)
+Veja changelog [aqui](https://github.com/lab804/generate-ap/blob/master/CHANGELOG.md)
