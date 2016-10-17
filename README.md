@@ -1,24 +1,19 @@
-# Gerador AP
-O script tem como funcionalidade facilitar a criação de um AP (Access Point) na
-distribuição [raspbian](https://www.raspberrypi.org). O Teste foi realizado
-na iso gerada em Setembro de 2016.
-
-## Configuração
-
-- Para alterar o ip do AP edite o arquivo `create.sh` e altere a variável: `defaultip`
-- A interface padrão é wlan0 caso necessite altere a variável `defaultinterface` no arquivo `create.sh`
+# Generator AP
+The script has the functionality to facilitate the creation of an AP (Access Point)
+in raspbian distribution. The test was conducted in iso generated in September 2016.
 
 
-## Executando
+## Configuration
+To change the AP ip create.sh edit the file and change the variable: defaultip
+The default interface is wlan0. You need to change the variable to defaultinterface
+in create.sh file
 
+## Running
 ./create.sh
 
-
-## Contribuir
-Questões e Dicas sempre serão bem vindas mas para manter uma organização veja
-[lista de questões](https://github.com/lab804/generate-ap/issues)
-
+## Contribute
+Questions and Tips will always be welcome but to keep an organization see the
+list of issues.
 
 ## Changelog
-
-Veja changelog [aqui](https://github.com/lab804/generate-ap/blob/master/CHANGELOG.md)
+See changelog [here](https://github.com/lab804/generate-ap/blob/master/CHANGELOG.md).
